@@ -1,5 +1,6 @@
 import axios from 'axios'
 import { useEffect, useState } from 'react'
+import Navigation from './Navigation'
 
 const ViewPet = () => {
 
@@ -32,7 +33,7 @@ const ViewPet = () => {
     return (
         <div>
 
-
+<Navigation/>
             <div className="container-fluid px-2 mt-4">
 
                 <h1 className="text-center mb-4">Pet Bookings</h1>
