@@ -51,7 +51,7 @@ const ViewPet = () => {
                                         <th>Pet Type</th>
                                         <th>Breed</th>
                                         <th>Age</th>
-                                        <th>Weight (kg)</th>
+                                        <th>Weight(kg)</th>
                                         <th>Vaccination Status</th>
                                         <th>Owner Name</th>
                                         <th>Owner Phone</th>
