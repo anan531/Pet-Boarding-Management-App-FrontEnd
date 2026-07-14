@@ -1,5 +1,6 @@
 import axios from 'axios'
 import React, { useState } from 'react'
+import Navigation from './Navigation'
 
 const AddPet = () => {
 
@@ -54,7 +55,7 @@ const AddPet = () => {
     return (
         <div>
 
-
+<Navigation/>
             <h1 align="center">Add Pet</h1>
 
             <div className="container">
